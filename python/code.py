@@ -1,5 +1,5 @@
 jk=int(input())
-if jk==3:
+if jk>0:
     print("Positive")
 elif jk==0:
     print("Zero")
