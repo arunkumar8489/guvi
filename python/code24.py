@@ -1,7 +1,7 @@
 l=[]
 nn=int(input())
 for x in range(nn):
-   n=int(input())
-   l.append(n)
+   nu=int(input())
+   l.append(nu)
    l.sort()
 print(l)   
