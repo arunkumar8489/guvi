@@ -12,6 +12,6 @@ for j in range(0,len(p)):
             q.append(p[j])
 q.sort()
 for t in q:
-    print(l,end=" ")
+    print(t,end=" ")
 if t==0:
     print('unique')
