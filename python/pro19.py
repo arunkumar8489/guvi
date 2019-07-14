@@ -6,6 +6,5 @@ for i in range(0,n):
 for j in m:
     for k in j:
         l.append(int(k))
-for p in l:
-    l.sort()
+for p in sorted(l):
     print(p,end=' ')
