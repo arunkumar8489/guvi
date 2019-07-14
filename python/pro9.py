@@ -1,2 +1,2 @@
-numb=int(input())
-print(numb)
+numb77=int(input())
+print(numb77)
