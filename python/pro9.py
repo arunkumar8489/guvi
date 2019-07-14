@@ -1,2 +1,2 @@
-arun=int(input())
-print(arun)
+numb=int(input())
+print(numb)
