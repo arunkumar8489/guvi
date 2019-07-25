@@ -1,4 +1,4 @@
 import statistics
-n=input()
-m=list(map(int,input().split()))
-print(statistics.median(m))
+n1=input()
+m1=list(map(int,input().split()))
+print(statistics.median(m1))
