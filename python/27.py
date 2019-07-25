@@ -1,7 +1,7 @@
 n=input()
 try:
     i=float(n)
-    print('Yes')
+    print('yes')
 except(ValueError,TypeError):
     print('No')
     
