@@ -9,7 +9,7 @@ for n in range(n,m+1):
        t//=10
 
     if n == s:
-       print(n)
+       print(n,end=' ')
    
    
    
