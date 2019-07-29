@@ -1,4 +1,4 @@
-n,m=input("Enter string:").split()
+n,m=input().split()
 if(n.find(m)==-1):
       print("no")
 else:
